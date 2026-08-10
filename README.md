@@ -14,15 +14,4 @@ interest in backend development, problem solving, and clean code.
 <p align="left"> 
   
   <img src="https://komarev.com/ghpvc/?username=shruti562023&label=Profile%20views&color=0e75b6&style=flat" alt="shruti562023" /> </p>
-## 🛠️ Tech Stack
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode" />
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shruti562004&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shruti562004&theme=tokyonight&hide_border=true" />
-</p>
-</p>
