@@ -1,10 +1,24 @@
 ![logo](https://github.com/shruti562023/shruti5620231/blob/main/banner.jpg)
 
-<h1 align="center">Hi 👋, I'm Shruti Rathore</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+# 👋 Hi, I'm Shruti Rathore
+
+### 💻 Software Developer | Java | Web Development
+
+I build practical, user-focused applications with a strong
+interest in backend development, problem solving, and clean code.
+
+🚀 Currently building projects with Java and web technologies  
+🌱 Currently improving my DSA & backend development skills  
+💡 Interested in software engineering and scalable applications
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shruti562023&label=Profile%20views&color=0e75b6&style=flat" alt="shruti562023" /> </p>
+## 🛠️ Tech Stack
 
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode" />
+
+</p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 👨‍💻 All of my projects are available at www.linkedin.com/in/shruti-rathore-661159290
