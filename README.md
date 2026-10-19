@@ -25,7 +25,7 @@
      alt="Coding animation"
      width="340"
      src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif"
-     style="margin-top: 40px; margin-left: 20px;" />
+     style="margin-top: 100px;"  margin-left: 20px;" />
 
 ## 🛠️ Tech Stack
 
