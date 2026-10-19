@@ -98,10 +98,10 @@ A collection of Java applications designed to strengthen programming fundamental
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:rathoreshruti672@gmail.com">
     <img src="https://img.shields.io/badge/✉%20EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:rathoreshruti672@gmail.com">
     <img src="https://img.shields.io/badge/SEND%20MAIL-E74C3C?style=for-the-badge&logoColor=white" alt="Send Mail" />
   </a>
 </p>
