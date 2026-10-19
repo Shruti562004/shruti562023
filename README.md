@@ -69,11 +69,11 @@ A web application project focused on managing student results, backend functiona
 🔗 [Backend Repository](https://github.com/Shruti562004/Project-10)  
 🔗 [Frontend Repository](https://github.com/Shruti562004/Project-10-Frontend)
 
-### 🔹 Java Development Projects
+### 🔹 Other Projects
 
 A collection of Java applications designed to strengthen programming fundamentals, object-oriented programming, and problem-solving skills.
 
-🔗 [Explore My Repositories](https://github.com/shruti562023?tab=repositories)
+🔗 [Explore My Repositories](https://github.com/Shruti562004)
 
 ---
 
