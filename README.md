@@ -8,9 +8,7 @@
   Passionate about building practical applications, solving problems, and writing clean, maintainable code.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shruti562023&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
-</p>
+
 
 ---
 
