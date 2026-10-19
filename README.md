@@ -91,7 +91,7 @@ A collection of Java applications designed to strengthen programming fundamental
 <p align="center">
   💻 Building projects • 🌱 Learning every day • 🚀 Growing as a Java Developer
 </p>
----
+
 
 ---
 
