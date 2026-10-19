@@ -90,15 +90,27 @@ A collection of Java applications designed to strengthen programming fundamental
 
 ---
 
+---
+
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/shruti-rathore-661159290/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="center">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/✉%20EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email" />
   </a>
-  <a href="https://github.com/shruti562023">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/SEND%20MAIL-E74C3C?style=for-the-badge&logoColor=white" alt="Send Mail" />
   </a>
+</p>
+
+<p align="center">
+  💼 <a href="https://www.linkedin.com/in/shruti-rathore-661159290/">LinkedIn</a>
+  &nbsp; | &nbsp;
+  💻 <a href="https://github.com/shruti562023">GitHub</a>
+</p>
+
+<p align="center">
+  ✉️ Feel free to contact me for collaboration, Java development opportunities, or professional networking.
 </p>
 
 ---
