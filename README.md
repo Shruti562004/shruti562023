@@ -1,17 +1,110 @@
-![logo](https://github.com/shruti562023/shruti5620231/blob/main/banner.jpg)
+![GitHub Banner](https://github.com/shruti562023/shruti5620231/blob/main/banner.jpg?raw=true)
 
-# 👋 Hi, I'm Shruti Rathore
+<h1 align="center">Hi 👋, I'm Shruti Rathore</h1>
 
-### 💻 Software Developer | Java | Web Development
+<h3 align="center">💻 Java Developer | Backend Development | Web Technologies</h3>
 
-I build practical, user-focused applications with a strong
-interest in backend development, problem solving, and clean code.
+<p align="center">
+  Passionate about building practical applications, solving problems, and writing clean, maintainable code.
+</p>
 
-🚀 Currently building projects with Java and web technologies  
-🌱 Currently improving my DSA & backend development skills  
-💡 Interested in software engineering and scalable applications
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
-<p align="left"> 
-  
-  <img src="https://komarev.com/ghpvc/?username=shruti562023&label=Profile%20views&color=0e75b6&style=flat" alt="shruti562023" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shruti562023&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
 
+---
+
+## 👩‍💻 About Me
+
+- 🎓 B.Tech Graduate from SAGE University
+- 💻 Interested in Java development and backend engineering
+- 🌱 Continuously learning Data Structures & Algorithms and modern web technologies
+- 🔧 Exploring database integration, REST APIs, and full-stack development
+- 🎯 Focused on building real-world projects and improving problem-solving skills
+- 🤝 Open to learning, collaboration, and software development opportunities
+
+<img align="right" alt="Coding animation" width="340" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" />
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Backend & Database**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Online Result System
+A web application project focused on managing student results, backend functionality, and database operations.
+
+**Tech Stack:** Java, Spring Boot, MySQL, Angular
+
+- Developed backend and frontend components.
+- Practiced REST API integration and database connectivity.
+- Explored application build and deployment workflows.
+
+🔗 [Backend Repository](https://github.com/Shruti562004/Project-10)  
+🔗 [Frontend Repository](https://github.com/Shruti562004/Project-10-Frontend)
+
+### 🔹 Java Development Projects
+
+A collection of Java applications designed to strengthen programming fundamentals, object-oriented programming, and problem-solving skills.
+
+🔗 [Explore My Repositories](https://github.com/shruti562023?tab=repositories)
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shruti562023&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti562023&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shruti562023&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shruti-rathore-661159290/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/shruti562023">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">✨ From API to deployment — I build systems that solve real problems.</h3>
+
+<p align="center">Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 🚀</p>
