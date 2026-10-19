@@ -21,7 +21,11 @@
 - 🎯 Focused on building real-world projects and improving problem-solving skills
 - 🤝 Open to learning, collaboration, and software development opportunities
 
-<img align="right" alt="Coding animation" width="340" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" />
+<img align="right"
+     alt="Coding animation"
+     width="340"
+     src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif"
+     style="margin-top: 40px; margin-left: 20px;" />
 
 ## 🛠️ Tech Stack
 
