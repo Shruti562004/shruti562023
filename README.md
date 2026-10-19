@@ -80,12 +80,15 @@ A collection of Java applications designed to strengthen programming fundamental
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shruti562023&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti562023&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shruti562004&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shruti562023&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shruti562004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shruti562004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
