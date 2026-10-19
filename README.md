@@ -76,22 +76,17 @@ A collection of Java applications designed to strengthen programming fundamental
 🔗 [Explore My Repositories](https://github.com/Shruti562004)
 
 ---
-
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shruti562023&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Shruti's GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti562023&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+  <a href="https://github.com/shruti562023?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My%20Repositories-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Repositories" />
+  </a>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=shruti562023&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  💻 Building projects • 🌱 Learning every day • 🚀 Growing as a Java Developer
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shruti562023&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ---
